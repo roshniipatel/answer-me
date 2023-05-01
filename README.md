@@ -12,8 +12,6 @@ Use it to create a markdown file README.me for your application. Initiate progra
 ## Links
 Repository: https://github.com/roshniipatel/answer-me 
 
-Deployed Page: 
-
 ## Acknowledgements
 w3schools https://www.w3schools.com/
 
