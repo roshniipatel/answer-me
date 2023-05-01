@@ -9,8 +9,6 @@ First clone the repo, open it in your chosen code editor, then open an integrate
 ## Usage
 Use it to create a markdown file README.me for your application. Initiate program in your CLI by running the command: node index.js
 
-The following video shows exactly how it works, if you shall need a video to follow. 
-
 ## Links
 Repository: https://github.com/roshniipatel/answer-me 
 
@@ -23,3 +21,6 @@ MDN Webdocs https://developer.mozilla.org/en-US/
 
 Youtube videos
 
+## Video Mockup
+if you want to see how it works, the following video shows you exactly how: 
+google drive link to the video mockup: https://drive.google.com/file/d/16ZHab6Avhp41y-pMEpsRjzxi9lj-3Elz/view?usp=share_link 

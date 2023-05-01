@@ -1,9 +1,9 @@
- # s
+ # Mock ReadMe
 
-undefined
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-s
+This is where you would write a description for your readme
 
 ## Table of Contents
 - [Description](#description)
@@ -15,25 +15,25 @@ s
 - [Questions](#questions)
 
 ## Installation
-The following necessary dependencies must be installed to run the application properly: s
+The following necessary dependencies must be installed to run the application properly: make sure to download npm and run it in the cli
 
 ## Usage
-s
+add any usage info
 
 ## Contributing
 undefined
 
 ## Tests
-s
+no tests for this
 
 ## License
-This project is subjected to the protections of the s license. Click on the license badge at the top of the page for more details about the license specifications.
+This project is subjected to the protections of the MIT license. Click on the license badge at the top of the page for more details about the license specifications.
 
 ## Questions
-[GitHub Profile](https://github.com/s)
+[GitHub Profile](https://github.com/githubusername)
 
-[GitHub Profile](https://linkedin.com/s)
+[GitHub Profile](https://linkedin.com/linkedIn)
 
-[Email](mailto:s)
+[Email](mailto:youremail@gmail.com)
 
 Feel free to email me with any questions about how to use this application.
