@@ -38,7 +38,7 @@ function init() {
         name: 'testInstruct',
       },
       {
-        type: 'input',
+        type: 'list',
         message: 'What license do you want to use?',
         choices: ['MIT', 'Mozilla', 'Boost', 'GNULGPLv3', 'Apache', 'None'],
         name: 'license',
