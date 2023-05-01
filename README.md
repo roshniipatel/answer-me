@@ -23,4 +23,4 @@ Youtube videos
 
 ## Video Mockup
 if you want to see how it works, the following video shows you exactly how: 
-google drive link to the video mockup: https://drive.google.com/file/d/16ZHab6Avhp41y-pMEpsRjzxi9lj-3Elz/view?usp=share_link 
+google drive link to the video mockup: https://drive.google.com/file/d/1UjdxmCb9ihDB9hoaU60yEXOcFKqmw181/view?usp=share_link 
